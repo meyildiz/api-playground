@@ -34,3 +34,7 @@ jsconfig.json
 
 test/testdb.sqlite
 .nyc_output
+
+.idea
+target
+package-lock.json
